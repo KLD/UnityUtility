@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ChainedRam.Core.Collider
+namespace KLD.Core.Collider
 {
     /// <summary>
     /// Objects with this script that can be picked (recieved) by <see cref="Collider2DReciever{T}"/>

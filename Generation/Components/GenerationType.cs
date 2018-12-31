@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     [Flags]
     public enum GenerationType

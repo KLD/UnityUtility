@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     /// <summary>
     /// A generator that generates components. 

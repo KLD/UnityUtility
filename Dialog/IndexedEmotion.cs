@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Dialog
+namespace KLD.Core.Dialog
 {
     public class IndexedEmotion : MonoBehaviour
     {

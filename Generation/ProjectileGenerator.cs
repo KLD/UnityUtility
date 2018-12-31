@@ -1,12 +1,12 @@
-﻿using ChainedRam.Core.Generation;
-using ChainedRam.Core.Projection;
+﻿using KLD.Core.Generation;
+using KLD.Core.Projection;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ChainedRam.Core.Configuration;
-using ChainedRam.Core.Extentions;
+using KLD.Core.Configuration;
+using KLD.Core.Extentions;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     public class ProjectileGenerator : InstanceGenerator<Projectile>
     {

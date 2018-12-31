@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
-using ChainedRam.Core.Extentions;
+using KLD.Core.Extentions;
 
-namespace ChainedRam.Core.Projection
+namespace KLD.Core.Projection
 {
     /// <summary>
     /// A moving unit that contained a rigide body. 

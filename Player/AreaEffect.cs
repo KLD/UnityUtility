@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ChainedRam.Core.Player
+namespace KLD.Core.Player
 {
     /// <summary>
     /// Used to implement a trigger collider effect with <see cref="Player"/>

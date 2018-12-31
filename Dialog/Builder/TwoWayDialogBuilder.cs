@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ChainedRam.Core.Dialog
+namespace KLD.Core.Dialog
 {
     public class TwoWayDialogBuilder : MonoBehaviour
     {

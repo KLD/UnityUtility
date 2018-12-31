@@ -2,9 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ChainedRam.Core.Generation.Extention; 
+using KLD.Core.Generation.Extention; 
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     #region Enum
     public enum ConditionOption : int

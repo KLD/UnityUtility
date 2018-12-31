@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace ChainedRam.Core.Puzzle
+namespace KLD.Core.Puzzle
 {
     public class EndTile : Tile
     {

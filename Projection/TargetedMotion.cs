@@ -1,11 +1,11 @@
-﻿using ChainedRam.Core.Extentions;
-using ChainedRam.Core.Projection;
+﻿using KLD.Core.Extentions;
+using KLD.Core.Projection;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Projection
+namespace KLD.Core.Projection
 {
     public class TargetedMotion : AbsoluteMotion
     {

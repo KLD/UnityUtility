@@ -1,5 +1,5 @@
-﻿using ChainedRam.Core.Configuration;
-using ChainedRam.Core.Projection;
+﻿using KLD.Core.Configuration;
+using KLD.Core.Projection;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

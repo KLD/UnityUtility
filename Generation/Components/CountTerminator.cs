@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     /// <summary>
     /// A terminatorgenerates based on a given number before stopping. 

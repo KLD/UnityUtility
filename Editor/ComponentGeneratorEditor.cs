@@ -1,10 +1,10 @@
-﻿using ChainedRam.Core.Generation;
+﻿using KLD.Core.Generation;
 using System;
-using ChainedRam.Core.Enums;
+using KLD.Core.Enums;
 using UnityEditor;
 
 
-namespace ChainedRam.Inspecter.Generation
+namespace KLD.Inspecter.Generation
 {
     //TODO: This needs some refactoring. This can be moved into the script itself Generator.OnGui >:\
     [CustomEditor(typeof(ComponentGenerator), true)]

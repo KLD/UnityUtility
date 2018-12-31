@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using ChainedRam.Core.Extentions;
-using ChainedRam.Core.Projection;
+using KLD.Core.Extentions;
+using KLD.Core.Projection;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     public class MotionGenerator : TimedGenerator
     {

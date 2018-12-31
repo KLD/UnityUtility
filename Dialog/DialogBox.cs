@@ -1,12 +1,12 @@
-﻿using ChainedRam.Core.Dialog.Extention;
-using ChainedRam.Core.Enums.Extensions;
+﻿using KLD.Core.Dialog.Extention;
+using KLD.Core.Enums.Extensions;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace ChainedRam.Core.Dialog
+namespace KLD.Core.Dialog
 {
     public class DialogBox : DialogDisplayer
     {

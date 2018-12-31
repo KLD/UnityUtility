@@ -1,12 +1,12 @@
-﻿using ChainedRam.Core.Generation;
-using ChainedRam.Core.Projection;
+﻿using KLD.Core.Generation;
+using KLD.Core.Projection;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     [Obsolete]
     public abstract class ProjectileQueueGenerator : InstanceGenerator<Projectile>

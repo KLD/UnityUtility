@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 using System;
-using ChainedRam.Core.Exceptions;
+using KLD.Core.Exceptions;
 
-namespace ChainedRam.Core.Configuration
+namespace KLD.Core.Configuration
 {
     /// <summary>
     /// Configures componets in scene defined by <see cref="ConfigMapper"/>

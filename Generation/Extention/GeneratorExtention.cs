@@ -1,5 +1,5 @@
 ﻿
-namespace ChainedRam.Core.Generation.Extention
+namespace KLD.Core.Generation.Extention
 {
 
     public static class GeneratorExtentions

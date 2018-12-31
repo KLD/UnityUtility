@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace ChainedRam.Core.Dialog
+namespace KLD.Core.Dialog
 {
     /// <summary>
     /// For emotionful dialogs. TODO: please change to an event listener -what? 

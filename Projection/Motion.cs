@@ -1,9 +1,9 @@
-﻿using ChainedRam.Core.Extentions;
+﻿using KLD.Core.Extentions;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Projection
+namespace KLD.Core.Projection
 {
     /// <summary>
     /// Represent an object that gives an offset value as a direction to create motional movment. 

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace ChainedRam.Core.Projection
+namespace KLD.Core.Projection
 {
     public class MotionlessMotion : Motion
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Player
+namespace KLD.Core.Player
 {
     /// <summary>
     /// Allows Object to  move using keybaord.

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace ChainedRam.Core.Dialog
+namespace KLD.Core.Dialog
 {
     /// <summary>
     /// Represnts a sequence of Dialogs masked as one dialog. 

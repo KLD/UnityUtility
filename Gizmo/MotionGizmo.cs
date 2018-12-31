@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ProjMotion =  ChainedRam.Core.Projection.Motion; 
+using ProjMotion =  KLD.Core.Projection.Motion; 
 
 public class MotionGizmo : MonoBehaviour
 {

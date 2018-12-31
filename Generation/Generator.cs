@@ -1,10 +1,10 @@
-﻿using ChainedRam.Core.Exceptions;
+﻿using KLD.Core.Exceptions;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {    
     /// <summary>
     /// A Compnent that generates. 

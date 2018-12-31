@@ -1,5 +1,5 @@
-﻿using ChainedRam.Core.Dialog;
-using ChainedRam.Core.Generation;
+﻿using KLD.Core.Dialog;
+using KLD.Core.Generation;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

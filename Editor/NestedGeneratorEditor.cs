@@ -1,11 +1,11 @@
-﻿using ChainedRam.Core.Generation;
+﻿using KLD.Core.Generation;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
 
-namespace ChainedRam.Inspecter.Generation
+namespace KLD.Inspecter.Generation
 {
     [CustomEditor(typeof(NestedGenerator), true)]
     public class NestedGeneratorEditor : Editor

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     /// <summary>
     /// An InstanceGenerator that holds limited generations in a queue to recycle them. 

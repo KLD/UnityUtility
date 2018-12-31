@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-namespace ChainedRam.Core.Configuration
+namespace KLD.Core.Configuration
 {
 
     /// <summary>

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using ChainedRam.Core.Generation;
+using KLD.Core.Generation;
 using UnityEngine;
 
 [Obsolete("Use: ShowupOnScreenGenerator")]

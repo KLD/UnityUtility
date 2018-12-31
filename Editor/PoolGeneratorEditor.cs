@@ -1,13 +1,13 @@
-﻿using ChainedRam.Core;
-using ChainedRam.Core.Generation;
-using ChainedRam.Core.Selection;
-using ChainedRam.Inspecter.Generation;
+﻿using KLD.Core;
+using KLD.Core.Generation;
+using KLD.Core.Selection;
+using KLD.Inspecter.Generation;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace ChainedRam.Inspecter.Generation
+namespace KLD.Inspecter.Generation
 {
     //[CustomEditor(typeof(PoolGenerator), true)]
     public class PoolGeneratorEditor : NestedGeneratorEditor

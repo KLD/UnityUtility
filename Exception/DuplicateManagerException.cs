@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ChainedRam.Core.Exceptions
+namespace KLD.Core.Exceptions
 {
     public class DuplicateManagerException : Exception
     {

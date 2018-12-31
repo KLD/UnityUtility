@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace ChainedRam.Core.Dialog
+namespace KLD.Core.Dialog
 {
     /// <summary>
     /// Parses text to extra emotion that will trigger at their mentioned time. 

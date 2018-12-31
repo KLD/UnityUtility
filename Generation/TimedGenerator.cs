@@ -1,9 +1,9 @@
-﻿using ChainedRam.Core.Generation;
+﻿using KLD.Core.Generation;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     public abstract class TimedGenerator : OnceGenerator
     {

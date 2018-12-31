@@ -1,9 +1,9 @@
-﻿using ChainedRam.Core.Generation.Extention;
+﻿using KLD.Core.Generation.Extention;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     /// <summary>
     /// Wraps a generator around it. Can be used to refrence other generator. 

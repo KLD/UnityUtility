@@ -1,9 +1,9 @@
-﻿using ChainedRam.Core.Extentions;
+﻿using KLD.Core.Extentions;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Projection
+namespace KLD.Core.Projection
 {
     public class CurveMotion : RelativeMotion
     {

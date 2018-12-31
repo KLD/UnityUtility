@@ -1,12 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using ChainedRam.Core;
-using ChainedRam.Core.Player;
+using KLD.Core;
+using KLD.Core.Player;
 
-using ChainedRam.Core.Projection;
+using KLD.Core.Projection;
 using UnityEngine;
 
-namespace ChainedRam.Core.Configuration
+namespace KLD.Core.Configuration
 {
     [RequireComponent(typeof(DelayedMotion))]
     public class DelayedMotionPlayerEnjection : Enjection

@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace ChainedRam.Core.Enums
+namespace KLD.Core.Enums
 {
     public enum Default{ NotSet }
 

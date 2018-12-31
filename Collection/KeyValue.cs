@@ -3,10 +3,10 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 using UnityEngine;
-using ChainedRam.Core.Enums;
+using KLD.Core.Enums;
 
 
-namespace ChainedRam.Core.Collection
+namespace KLD.Core.Collection
 {
     [Serializable]
     public class KeyValue<K, V>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Collider
+namespace KLD.Core.Collider
 {
     /// <summary>
     /// Allows object to trigger <see cref="ColliderEventContainer.OnEnter"/> and <see cref="ColliderEventContainer.OnEnter"/> events. 

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Player
+namespace KLD.Core.Player
 {
     public interface IStatusEffect
     {

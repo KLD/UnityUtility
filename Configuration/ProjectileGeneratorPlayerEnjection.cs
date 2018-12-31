@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using ChainedRam.Core.Generation;
-using ChainedRam.Core.Player;
+using KLD.Core.Generation;
+using KLD.Core.Player;
 using UnityEngine;
 
-namespace ChainedRam.Core.Configuration
+namespace KLD.Core.Configuration
 {
     [RequireComponent(typeof(ProjectileGenerator))]
     public class ProjectileGeneratorPlayerEnjection : Enjection

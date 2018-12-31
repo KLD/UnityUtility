@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Selection
+namespace KLD.Core.Selection
 {
     public class RandomSelector : Selector
     {

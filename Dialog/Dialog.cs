@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace ChainedRam.Core.Dialog
+namespace KLD.Core.Dialog
 {
     /// <summary>
     /// Represent a dialog object that contains dialog life cycle defined in <see cref="DialogBox"/>

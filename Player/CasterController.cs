@@ -1,6 +1,6 @@
-﻿using ChainedRam.Core.Collection;
-using ChainedRam.Core.Enums;
-using ChainedRam.Core.Generation;
+﻿using KLD.Core.Collection;
+using KLD.Core.Enums;
+using KLD.Core.Generation;
 using System;
 using System.Collections;
 using System.Collections.Generic;

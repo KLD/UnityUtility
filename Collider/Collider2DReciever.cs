@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace ChainedRam.Core.Collider
+namespace KLD.Core.Collider
 {
     /// <summary>
     /// Allows object to recieve a pickable item. 

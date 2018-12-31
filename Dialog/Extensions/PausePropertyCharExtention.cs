@@ -1,9 +1,9 @@
-﻿using ChainedRam.Core.Dialog;
+﻿using KLD.Core.Dialog;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Dialog.Extention
+namespace KLD.Core.Dialog.Extention
 { 
     public static class PausePropertyCharExtention
     {

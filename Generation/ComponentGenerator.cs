@@ -1,11 +1,11 @@
-﻿using ChainedRam.Core.Exceptions;
+﻿using KLD.Core.Exceptions;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
     /// <summary>
     /// A generator that delegates it's abstract functionalities into separate components. 

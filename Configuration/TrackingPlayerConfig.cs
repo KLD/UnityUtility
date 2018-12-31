@@ -1,5 +1,5 @@
-﻿using ChainedRam.Core.Configuration;
-using ChainedRam.Core.Player;
+﻿using KLD.Core.Configuration;
+using KLD.Core.Player;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,11 +1,11 @@
-﻿using ChainedRam.Core.Collection;
+﻿using KLD.Core.Collection;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace ChainedRam.Core.Player
+namespace KLD.Core.Player
 {
     [RequireComponent(typeof(Rigidbody2D))]
     public class Player : MonoBehaviour

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Puzzle
+namespace KLD.Core.Puzzle
 {
     public abstract class TileContent : MonoBehaviour
     {

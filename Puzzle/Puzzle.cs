@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ChainedRam.Core.Dialog;
+using KLD.Core.Dialog;
 
-namespace ChainedRam.Core.Puzzle
+namespace KLD.Core.Puzzle
 {
     public class Puzzle : MonoBehaviour
     {

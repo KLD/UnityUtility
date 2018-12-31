@@ -1,7 +1,7 @@
-﻿using ChainedRam.Core.Player; 
+﻿using KLD.Core.Player; 
 using UnityEngine;
 
-namespace ChainedRam.Core.Configuration
+namespace KLD.Core.Configuration
 { 
     public abstract class Enjection : MonoBehaviour
     {

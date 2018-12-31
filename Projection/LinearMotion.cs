@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Projection
+namespace KLD.Core.Projection
 {
     public class LinearMotion : AbsoluteMotion
     {

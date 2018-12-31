@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using ChainedRam.Core;
-using ChainedRam.Core.Extentions;
+using KLD.Core;
+using KLD.Core.Extentions;
 using UnityEngine;
 
-namespace ChainedRam.Core.Generation
+namespace KLD.Core.Generation
 {
 
     public class ShowupOnScreenGenerator : TimedGenerator

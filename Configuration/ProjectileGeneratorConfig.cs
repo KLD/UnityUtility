@@ -1,6 +1,6 @@
-﻿using ChainedRam.Core.Configuration;
-using ChainedRam.Core.Generation;
-using ChainedRam.Core.Projection;
+﻿using KLD.Core.Configuration;
+using KLD.Core.Generation;
+using KLD.Core.Projection;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

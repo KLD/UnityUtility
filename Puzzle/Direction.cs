@@ -2,6 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Puzzle
+namespace KLD.Core.Puzzle
 {
 }

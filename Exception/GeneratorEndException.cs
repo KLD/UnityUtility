@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace ChainedRam.Core.Exceptions
+namespace KLD.Core.Exceptions
 {
     public class GeneratorEndException : Exception
     {

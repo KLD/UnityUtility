@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ChainedRam.Core.Collider
+namespace KLD.Core.Collider
 {
     /// <summary>
     /// Recieves dynamic object to set the target pickable type 

@@ -1,11 +1,11 @@
-﻿using ChainedRam.Core.Projection;
+﻿using KLD.Core.Projection;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ChainedRam.Core.Extentions;
+using KLD.Core.Extentions;
 
-namespace ChainedRam.Core.Projection //TODO this is more into Editor than Core
+namespace KLD.Core.Projection //TODO this is more into Editor than Core
 {
     public class ProjectileGizmo : MonoBehaviour
     {

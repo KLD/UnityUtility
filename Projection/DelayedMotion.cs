@@ -1,9 +1,9 @@
 ﻿
 
-using ChainedRam.Core.Extentions;
+using KLD.Core.Extentions;
 using UnityEngine;
 
-namespace ChainedRam.Core.Projection
+namespace KLD.Core.Projection
 {
     public class DelayedMotion : Motion
     {

@@ -1,11 +1,11 @@
-﻿using ChainedRam.Core.Configuration;
-using ChainedRam.Core.Player;
+﻿using KLD.Core.Configuration;
+using KLD.Core.Player;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace ChainedRam.Core.Configuration
+namespace KLD.Core.Configuration
 {
     public class PlayerEnjectorConfig : ConfigMapper<Enjection>
     {

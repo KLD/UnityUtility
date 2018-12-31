@@ -1,5 +1,5 @@
-﻿using ChainedRam.Core.Collection;
-using ChainedRam.Core.Enums;
+﻿using KLD.Core.Collection;
+using KLD.Core.Enums;
 using System;
 using UnityEditor;
 using UnityEngine;

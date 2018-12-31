@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace ChainedRam.Core
+namespace KLD.Core
 {
     public enum NeighborDirection
     {

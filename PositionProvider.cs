@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace ChainedRam.Core
+namespace KLD.Core
 {
     [Flags]
     public enum Direction
