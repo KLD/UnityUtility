@@ -1,17 +1,15 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace KLD.Core.Puzzle
 {
     public class Tile : MonoBehaviour, NeighbotGrid<Tile>.INeighbor<Tile>
     {
-        public TileContent content
+        public TileContent Content
         {
             get
             {
                 //if (transform.GetChild(0) != null)
-                    return transform.GetComponentInChildren<TileContent>();
+                return transform.GetComponentInChildren<TileContent>();
             }
         }
         [SerializeField]
@@ -20,36 +18,45 @@ namespace KLD.Core.Puzzle
         {
             set
             {
-                this.neighbor = value;
+                neighbor = value;
             }
             get
             {
-                return this.neighbor;
+                return neighbor;
             }
         }
         private void Awake()
         {
-            if(Neighbor == null)
+            if (Neighbor == null)
                 Neighbor = new Tile[4];
         }
 
-        public bool IsEmpty()
+        public virtual bool IsEmpty()
         {
-            return content == null;
+            return Content == null;
         }
 
         public virtual void OnContentReached()
         {
         }
 
+        public virtual bool CanSetContent()
+        {
+            return IsEmpty();
+        }
+
         public virtual bool SetContent(TileContent content)
         {
-            content.transform.SetParent(this.transform);
+            if (!CanSetContent())
+            {
+                return false;
+            }
+            content.transform.SetParent(transform);
             return true;
         }
         public bool HasContent()
         {
-            return content != null;
+            return Content != null;
         }
 
         public bool HasNeighbor(NeighborDirection direction)

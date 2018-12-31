@@ -36,14 +36,24 @@ namespace KLD.Core.Puzzle
             originalParent.SetContent(this);
         }
 
-
-        public virtual bool Move(NeighborDirection dire)
+        public virtual bool CanMove(NeighborDirection dire)
         {
             if (isMoving)
             {
                 return false;
             }
+
             if (parent.HasNeighbor(dire) == false || parent.GetNeighbor(dire).HasContent())
+            {
+                return false;
+            }
+
+            return parent.GetNeighbor(dire).CanSetContent(); 
+        }
+
+        public virtual bool Move(NeighborDirection dire)
+        {
+            if (!CanMove(dire))
             {
                 return false;
             }
@@ -55,6 +65,11 @@ namespace KLD.Core.Puzzle
             }
 
             return didMove; 
+        }
+
+        protected virtual void OnReachedParent()
+        {
+
         }
 
         private void LateUpdate()
@@ -86,6 +101,7 @@ namespace KLD.Core.Puzzle
             if (!isMoving)
             {
                 parent.OnContentReached();
+                OnReachedParent(); 
             }
         }
     }

@@ -25,7 +25,7 @@ namespace KLD.Core.Puzzle
                 return true;
             if (!parent.HasNeighbor(dire))
                 return false;
-            if (parent.GetNeighbor(dire).content.Move(dire))
+            if (parent.GetNeighbor(dire).Content.Move(dire))
                 return base.Move(dire);
             else
                 return false;
